@@ -19,7 +19,7 @@ so you get:
 
 3.user_agent
 
-replace
+rename
 
 client_secrets0.json
 
